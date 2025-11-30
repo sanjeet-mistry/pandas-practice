@@ -434,7 +434,6 @@ athlete_id,name,born_date,born_country,NOC,country_noc
 4178,Ulderico Sergo,1913-07-04,CRO,Italy,ITA
 4199,Terry Dixon,1966-07-29,GBR,Jamaica,JAM
 4213,Alex Stewart,1964-06-28,GBR,Jamaica,JAM
-4231,Hwang Eul-Su,,KOR,Japan,JPN
 4362,Gang Jun-Ho,1928-06-22,PRK,Republic of Korea,KOR
 4446,Kazys Markevičius,1905-01-28,LAT,Lithuania,LTU
 4463,Roby Rausch,1937-09-25,BEL,Luxembourg,LUX
@@ -2466,16 +2465,13 @@ athlete_id,name,born_date,born_country,NOC,country_noc
 19463,Kirpal Singh Bhardwaj,1935-09-09,UGA,Kenya,KEN
 19468,Pritam Singh Sandhu,1931-12-21,TAN,Kenya,KEN
 19545,Yu Seung-Jin,1969-01-20,KOR,Japan Republic of Korea,JPN
-19553,Noel Arul,,MAS,Malaya,MAL
 19560,Chuah Eng Cheng,1921-01-01,MAS,Malaya,
 19573,Hamzah Shamsuddin,1930-05-20,MAS,Malaya,MAL
 19580,Aman Ullah Karim,1931-01-01,MAS,Malaya,
 19591,Thomas Lawrence,1929-01-01,MAS,Malaya,
 19596,Manikam Shanmuganathan,1927-01-01,MAS,Malaya Malaysia,
 19603,Supaat Nadarajah,1920-01-01,MAS,Malaya,
-19621,Philip Sankey,,MAS,Malaya,MAL
 19624,Rajaratnam Selvanayagam,1921-01-01,MAS,Malaya,
-19626,Sheikh Ali,,MAS,Malaya,MAL
 19629,Gian Singh,1928-01-16,MAS,Malaya,MAL
 19636,Gerry Toft,1925-01-01,MAS,Malaya,
 19638,Peter Van Huizen,1932-09-03,MAS,Malaya,MAL
@@ -2859,7 +2855,6 @@ athlete_id,name,born_date,born_country,NOC,country_noc
 22354,Zisis Babanasis,1964-08-03,HUN,Greece,GRE
 22355,Konstantinos Bembis,1903-01-01,GRE,Greece,
 22356,Konstantinos Botasis,1890-01-01,GRE,Greece,
-22362,Emil Vambera,,UKR,Poland,POL
 22367,Tilemachos Karakalos,1866-01-01,GRE,Greece,
 22373,Konstantinos Komninos-Miliotis,1874-01-01,GRE,Greece,
 22374,Athanasios Nanopoulos,1911-01-01,GRE,Greece,
@@ -3138,7 +3133,6 @@ athlete_id,name,born_date,born_country,NOC,country_noc
 24728,Mohamed El-Guindi,1920-01-01,SUD,Egypt,
 24729,Mahmoud El-Gohary,1938-02-20,EGY,United Arab Republic,UAR
 24744,Ali El-Hassani,1897-01-01,EGY,Egypt,
-24749,Gamil El-Zobair,,SUD,Egypt,EGY
 24760,Adel Hekal,1934-03-23,EGY,United Arab Republic,UAR
 24780,Hussein Madkour,1919-01-01,EGY,Egypt,
 24788,Abdou Noshi,1939-09-01,EGY,United Arab Republic,UAR
@@ -5962,7 +5956,6 @@ athlete_id,name,born_date,born_country,NOC,country_noc
 42613,Gerasimos Anagnostou,1880-01-01,GRE,Greece,
 42614,Georgios Anitsas,1891-01-01,GRE,Greece,
 42620,Ioannis Fragkoudis,1863-01-01,CYP,Greece,
-42621,Platon Georgitsis,,EGY,Greece,GRE
 42625,Kostas Karakatsanis,1877-01-01,GRE,Greece,
 42626,Pantelis Karasevdas,1877-01-01,GRE,Greece,
 42633,Vangelis Chrysafis,1915-01-01,GRE,Greece,
@@ -7491,7 +7484,6 @@ athlete_id,name,born_date,born_country,NOC,country_noc
 54069,Nikolaos Baltatzis-Mavrokordatos,1897-01-01,GRE,Greece,
 54074,Andreas Garyfallos,1931-01-01,GRE,Greece,
 54096,Panagiotis Mathioudakis,1944-01-01,GRE,Greece,
-54097,Savvas Mavridis,,EGY,Greece,GRE
 54103,Georgios Palikaris,1946-01-01,GRE,Greece,
 54122,Ioannis Thymaras,1934-01-01,GRE,Greece,
 54126,Dionysios Vasilopoulos,1902-01-01,EGY,Greece,
@@ -8006,7 +7998,6 @@ athlete_id,name,born_date,born_country,NOC,country_noc
 57578,Howie Thomas,1905-01-18,GBR,Canada,CAN
 57585,Alfred Wurr,1943-06-28,GER,Canada,CAN
 57633,Stipe Damjanović,1969-09-14,BIH,Croatia,CRO
-57760,Al-Sayd Rifa’i,,EGY,United Arab Republic,UAR
 57792,El-Sayed Kandil,1917-01-01,EGY,Egypt,
 57800,Ibrahim Orabi,1912-01-01,EGY,Egypt,
 57803,Ahmed Rahmy,1894-01-01,EGY,Egypt,
@@ -8148,7 +8139,6 @@ athlete_id,name,born_date,born_country,NOC,country_noc
 58648,Antal Steer,1943-10-10,SVK,Hungary,HUN
 58653,Árpád Szántó,1889-10-10,ROU,Hungary,HUN
 58656,Gyula Szilágyi,1913-01-01,HUN,Hungary,
-58663,József Téger,,ROU,Hungary,HUN
 58722,Dinkkarao Shinde,1900-01-01,IND,India,
 58817,Hassan Sadian,1924-01-01,IRI,Islamic Republic of Iran,
 58827,Nabi Sorouri,1933-01-01,AZE,Islamic Republic of Iran,
@@ -9763,7 +9753,6 @@ athlete_id,name,born_date,born_country,NOC,country_noc
 71373,Purma Bannerjee,1897-01-01,IND,India,
 71375,Ranjit Bhatia,1936-05-27,GBR,India,IND
 71380,Phadeppa Chaugule,1902-01-01,IND,India,
-71381,D. B. Chavan,,PAK,India,IND
 71401,Lavy Pinto,1929-10-23,KEN,India,IND
 71424,Milkha Singh,1935-10-17,PAK,India,IND
 71484,Katy McCandless,1970-06-22,USA,Ireland,IRL
@@ -11047,10 +11036,8 @@ athlete_id,name,born_date,born_country,NOC,country_noc
 79951,Federico Della Ferrera,1887-07-03,ITA,Italy,
 79952,Giacinto Fidani,1884-08-18,ITA,Italy,
 79953,Francesco Verri,1885-06-11,ITA,Italy,
-79954,Carlo Gandini,,ITA,Italy,
 79955,Dante Aloisi,1881-01-01,ITA,Italy,
 79956,Rodrigo Bertinotti,1886-05-27,ITA,Italy,
-79957,Enrico Brignoli,,ITA,Italy,
 79959,Cino Civinini,1883-04-02,ITA,Italy,
 79960,Guido Colavini,1882-01-01,ITA,Italy,
 79961,Raffaello Giannoni,1882-01-14,ITA,Italy,
